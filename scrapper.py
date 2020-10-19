@@ -16,7 +16,6 @@ def extract_from_url(url):
     classes_needed = ['.vote-count-post', '.question-hyperlink']
     final_data = []
     for question in data_summary:
-        time.sleep(2)
         question_votes = question.find('.vote-count-post', first=True).text
         question_data = question.find('.question-hyperlink', first=True).text
         question_tags = question.find('.tags', first=True).text
