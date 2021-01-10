@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import requests
 from requests_html import HTML
+import sys
 
 
 def extract_from_url(url):
@@ -36,3 +37,7 @@ def scrape_stack(tag="python", page=1, pagesize="20", sortby="votes"):
         all_page_data += extract_from_url(url)
     df = pd.DataFrame(all_page_data)
     df.to_csv(f"{tag}.csv", index=False)
+
+if __name__ == '__main__':
+    tag = sys.argv[1]
+    scrape_stack(tag=tag, page=1, pagesize="20", sortby="votes")

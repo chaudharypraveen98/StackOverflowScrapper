@@ -1,0 +1,51 @@
+question,votes,tags
+Why is processing a sorted array faster than processing an unsorted array?,24644,java c++ performance optimization branch-prediction
+Why is subtracting these two times (in 1927) giving a strange result?,6871,java date timezone
+Is Java “pass-by-reference” or “pass-by-value”?,6649,java methods parameter-passing pass-by-reference pass-by-value
+How do I read / convert an InputStream into a String in Java?,4105,java string io stream inputstream
+Avoiding != null statements,4040,java object nullpointerexception null
+Differences between HashMap and Hashtable?,3776,java collections hashmap hashtable
+Proper use cases for Android UserManager.isUserAGoat()?,3652,java android usermanager
+"Why don't Java's +=, -=, *=, /= compound assignment operators require casting?",3651,java casting operators variable-assignment assignment-operator
+Create ArrayList from array,3626,java arrays arraylist type-conversion
+How do I generate random integers within a specific range in Java?,3543,java random integer
+Why is char[] preferred over String for passwords?,3451,java string security passwords char
+Iterate through a HashMap [duplicate],3390,java loops hashmap iteration
+How do I efficiently iterate over each entry in a Java Map?,3337,java dictionary collections iteration
+How to create a memory leak in Java?,3249,java memory memory-leaks
+"What is the difference between public, protected, package-private and private in Java?",3197,java private public protected access-modifiers
+When to use LinkedList over ArrayList in Java?,3139,java arraylist collections linked-list
+How do I convert a String to an int in Java?,3056,java string int type-conversion
+What is a serialVersionUID and why should I use it?,3026,java serialization serialversionuid
+Initialization of an ArrayList in one line,2792,java collections arraylist initialization
+Why is printing “B” dramatically slower than printing “#”?,2759,java performance loops for-loop system.out
+"How do I test a private function or a class that has private methods, fields or inner classes?",2757,java unit-testing tdd
+How to fix 'android.os.NetworkOnMainThreadException'?,2421,java android android-networking networkonmainthread
+How can I create an executable JAR with dependencies using Maven?,2421,java maven-2 build-process build-automation executable-jar
+Does a finally block always get executed in Java?,2395,java error-handling return try-catch-finally
+How do I determine whether an array contains a particular value in Java?,2300,java arrays
+How do I call one constructor from another in Java?,2280,java constructor
+What is reflection and why is it useful?,2152,java reflection terminology
+“implements Runnable” vs “extends Thread” in Java,2139,java multithreading runnable implements java-threads
+"What's the difference between @Component, @Repository & @Service annotations in Spring?",2135,java spring spring-mvc annotations
+How do I declare and initialize an array in Java?,2087,java arrays
+How do you assert that a certain exception is thrown in JUnit 4 tests?,2021,java exception junit junit4 assert
+How to get an enum value from a string value in Java?,2002,java enums
+What's the simplest way to print a Java array?,1965,java arrays printing
+How to use java.net.URLConnection to fire and handle HTTP requests?,1959,java http httprequest httpurlconnection urlconnection
+How do I break out of nested loops in Java?,1832,java loops nested-loops
+What is a JavaBean exactly?,1825,java javabeans serializable
+Java inner class and static nested class,1784,java inner-classes static-classes
+Why does this code using random strings print “hello world”?,1777,java string random
+Comparing Java enum members: == or equals()?,1756,java enums
+How to generate a random alpha-numeric string?,1755,java string random alphanumeric
+How to avoid Java code in JSP files?,1684,java jsp scriptlet
+Does Java support default parameter values?,1681,java methods parameters overloading default-parameters
+How to split a string in Java,1658,java string split
+"Sort a Map<Key, Value> by values",1650,java sorting dictionary collections
+Difference between StringBuilder and StringBuffer,1592,java stringbuilder stringbuffer
+How to fix java.lang.UnsupportedClassVersionError: Unsupported major.minor version,1580,java jvm incompatibility unsupported-class-version
+Why use getters and setters/accessors?,1551,java oop setter getter abstraction
+How do I create a Java string from the contents of a file?,1529,java string file file-io io
+How can I convert a stack trace to a string?,1514,java stack-trace tostring
+How does the Java 'for each' loop work?,1507,java foreach syntactic-sugar
