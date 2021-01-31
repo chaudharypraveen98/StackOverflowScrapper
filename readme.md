@@ -21,4 +21,9 @@ This scrapper scrapes the questions from the stack overflow depending upon the n
 <br>**_pagesize_**: How much questions or thread each page contains.
 <br>**_sortby_**: You can sort the question according to votes,newest,active and unanswered.
 
+
+#### **Web Preview**:-
+<img src="questions.JPG" alt="preview">
+
+
 _**Note**_: Any changes are most welcomed. By default the file extension is set to csv with the tag you used for scraping
